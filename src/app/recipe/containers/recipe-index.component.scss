@@ -1,0 +1,22 @@
+.bloc-recipe {
+  margin-top:20px;
+  padding:10px;
+
+  .img-bloc {
+    vertical-align: middle;
+  }
+  
+  .title-bloc {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    padding-left: 30px;
+  }
+
+  .hours-bloc {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 20px;
+  }
+}
